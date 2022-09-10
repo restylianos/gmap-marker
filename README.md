@@ -1,2 +1,8 @@
 # gmap-pinner
-learning typescript basics
+
+🎈 typescript basics 🎈
+
+Instructions:
+`git clone ...`
+`npm install`
+`parcel index.html`
