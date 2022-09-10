@@ -1,0 +1,23 @@
+{
+  "name": "gmap-pinner",
+  "version": "1.0.0",
+  "description": "learning typescript basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restylianos/gmap-pinner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restylianos/gmap-pinner/issues"
+  },
+  "homepage": "https://github.com/restylianos/gmap-pinner#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
