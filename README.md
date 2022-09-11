@@ -1,8 +1,8 @@
-# gmap-pinner
+# gmap-marker
 
 🎈 typescript basics 🎈
 
-Instructions:
-`git clone ...`
-`npm install`
-`parcel index.html`
+Instructions:<br>
+`git clone ...`<br>
+`npm install`<br>
+`parcel index.html`<br>
